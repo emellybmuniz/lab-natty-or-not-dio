@@ -39,26 +39,35 @@ O projeto explorou diversas ferramentas de IA e desenvolvimento:
 
 ## 🧐 Processo de Criação
 
-O processo de criação seguiu as etapas abaixo:
+O desenvolvimento do projeto foi centrado na exploração de múltiplas IAs Generativas, seguindo estas etapas:
 
-### 1. Definição do Roteiro e Tom
-Criação de um roteiro com tom misterioso e investigativo, utilizando fatos sobre deepfakes e desinformação para garantir credibilidade. O foco foi na **Erosão da Confiança** e no **"dividendo do mentiroso"**.
+### 1. Conceituação e Formato
 
-### 2. Criação dos Apresentadores
-Foram criadas identidades detalhadas para os apresentadores:
-- **Anya**: Pesquisadora de ética digital, 30 anos, dicção perfeita
-- **Vitor**: Ex-jornalista investigativo, 45 anos, voz grave
+A etapa inicial envolveu a definição do formato de entrega. O podcast foi escolhido como o meio ideal para explorar os temas de desinformação e realismo da IA, permitindo focar na credibilidade da síntese de voz.
 
-### 3. Inserção de Fatos Relevantes
-O roteiro incorporou informações críticas sobre:
-- O avanço da tecnologia desde 2017
-- A rapidez de propagação de fake news (70% mais chances de serem retweetadas)
-- Medidas regulatórias brasileiras, como a **Resolução do TSE de 2024** que proíbe deepfakes na propaganda eleitoral
+### 2. Pesquisa e Roteirização (NotebookLM)
 
-### 4. O Twist Final
-O roteiro culmina em uma reflexão meta-humana, onde Anya e Vitor questionam se são apenas algoritmos aperfeiçoados, deixando a audiência em um estado de dúvida:
+Utilizando o NotebookLM como mesa de trabalho, foi realizada a pesquisa de fontes e a roteirização do episódio. O roteiro foi estruturado no próprio studio da ferramenta, definindo os tópicos, a dinâmica e as personalidades dos apresentadores (Anya e Vitor) através de engenharia de prompt avançada.
 
-> *"Somos a prova de que a mentira se tornou indistinguível"*
+### 3. Inserção de Conteúdo Estratégico
+
+Para garantir a credibilidade e o tom investigativo, o roteiro incorporou informações críticas e relevantes sobre:
+
+ - O avanço da tecnologia deepfake desde 2017.
+
+ - A rapidez da propagação de fake news (com 70% mais chances de serem retweetadas).
+
+ - Medidas regulatórias brasileiras recentes, como a Resolução do TSE de 2024 que proíbe deepfakes na propaganda eleitoral.
+
+### 4. Desenvolvimento da Plataforma (Lovable)
+
+Optou-se por gerar um site crível via Lovable em vez de usar plataformas tradicionais (como o YouTube).  O foco foi criar uma experiência imersiva, demonstrando a capacidade multi-modal da IA (áudio, imagem e site). O refinamento de prompts garantiu um design profissional e consistente.
+
+### 5. Geração Multi-modal e o "Twist Final"
+
+O resultado final integrou múltiplas formas de conteúdo gerado por IA (áudio, imagens e texto). O roteiro culminou intencionalmente em uma reflexão meta-humana, onde Anya e Vitor questionam a própria natureza da sua existência, deixando a audiência em um estado de dúvida.
+
+> "Somos a prova de que a mentira se tornou indistinguível"
 
 ---
 
@@ -74,13 +83,13 @@ Este projeto se classifica como um **"Podcast"**, um dos exemplos de insights su
 
 ## 💭 Reflexão
 
-Refletir sobre o desafio de criar algo verdadeiramente "natty" (natural) com IA nos leva ao **Limiar da Dúvida** — um ponto delicado onde a distinção entre o artificial e o real se torna cada vez mais tênue.
+Refletir sobre o desafio de criar algo verdadeiramente "natty" (natural) com IA nos leva ao Limiar da Dúvida, onde a distinção entre o artificial e o real se torna cada vez mais tênue.
 
-Hoje, a tecnologia de síntese de voz consegue gerar áudios com uma naturalidade quase indistinguível da fala humana. Entretanto, essa conquista não acompanha o desenvolvimento de um julgamento ético ou de um senso crítico por parte da IA. Assim, ao criarmos algo que soe "natural", estamos, na prática, explorando e testando os limites da nossa própria percepção do que é real.
+A tecnologia de síntese de voz gera áudios com naturalidade quase indistinguível da fala humana. Contudo, essa conquista técnica não é acompanhada pelo senso ético da ferramenta ou de seus usuários. É na busca por essa perfeição da réplica que o maior desafio se manifesta: ao criarmos o "natural", expomos a fragilidade da nossa percepção e de nossas referências de autenticidade, testando os limites do que consideramos real.
 
-O maior desafio reside justamente aí: na busca pela perfeição na reprodução do natural, acabamos por expor nossa vulnerabilidade — a fragilidade de nossa percepção e de nossas referências de autenticidade.
+Práticas como o deepfake exploram precisamente essa brecha. Elas não apenas facilitam novas formas de engano e crimes, mas também corroem as bases da confiança social, ameaçando a informação, a comunicação e a própria noção de verdade.
 
-Ferramentas como o deepfake, além de possibilitarem novas formas de engano, também aprofundam as vulnerabilidades existentes na sociedade. Elas não apenas facilitam a criação de crimes, mas também ameaçam a confiança na informação, na comunicação e na própria noção de verdade.
+Diante desse cenário, a conscientização pública torna-se a primeira linha de defesa. É imperativo que, como sociedade, sejamos responsáveis pelo uso dessas ferramentas, compreendendo seu potencial. Paralelamente, a regulamentação efetiva é crucial, não para frear a inovação, mas para estabelecer limites éticos claros que protejam o tecido da nossa realidade.
 
 ---
 
